@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": "86f6",
+      "nombre": "Asus Vivabook 500",
+      "precio": "5000",
+      "cantidad": "1"
+    },
+    {
+      "id": "2bbd",
+      "nombre": "Lenovo",
+      "precio": "6000",
+      "cantidad": "1"
+    },
+    {
+      "id": "aa59",
+      "nombre": "banana",
+      "precio": "1",
+      "cantidad": "0"
+    },
+    {
+      "id": "edac",
+      "nombre": "Lenovo ThinkPad",
+      "precio": "200",
+      "cantidad": "0"
+    }
+  ]
+}
